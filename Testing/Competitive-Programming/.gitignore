@@ -1,0 +1,9 @@
+# User-specific files
+*.exe
+*.out
+*.obj
+*.txt
+
+# User-specific directories
+workspace/*
+.vscode/

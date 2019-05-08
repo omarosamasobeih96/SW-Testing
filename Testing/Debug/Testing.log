@@ -1,0 +1,9 @@
+﻿  math_test.cpp
+f:\visual studio temp projects\testing\testing\competitive-programming\math\math.cpp(8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\visual studio temp projects\testing\testing\test\math_test.cpp(239): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\visual studio temp projects\testing\testing\test\math_test.cpp(251): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\visual studio temp projects\testing\testing\test\math_test.cpp(288): warning C4018: '<': signed/unsigned mismatch
+f:\visual studio temp projects\testing\testing\test\math_test.cpp(303): warning C4018: '<': signed/unsigned mismatch
+  fenwick_tree_multiset_test.cpp
+  Generating Code...
+  Testing.vcxproj -> F:\Visual Studio Temp Projects\Testing\Debug\Testing.exe
